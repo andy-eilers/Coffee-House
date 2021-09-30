@@ -9,5 +9,5 @@
 .list {
     display: flex;  /* Display the child items in a Flex layout */
     flex-wrap: wrap;
-    justify-content: flex-start;
+    justify-content: flex-end;
 }
